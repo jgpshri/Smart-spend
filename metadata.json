@@ -1,0 +1,8 @@
+{
+  "name": "Smart Spend",
+  "description": "A high-fidelity glassmorphic financial dashboard with secure auth simulation, multi-account bank syncing, customizable budget categories, transaction ledger, long-term visual growth charts, automated reports, and interactive push alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
