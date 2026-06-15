@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+<p>💰 SmartSpend – AI-Powered Personal Finance Manager
+🚀 About SmartSpend
 
-# Run and deploy your AI Studio app
+SmartSpend is an intelligent personal finance management and expense tracking application developed using Google AI Studio. It empowers users to monitor spending habits, manage budgets, organize transactions, and gain financial insights through a modern and intuitive interface.
 
-This contains everything you need to run your app locally.
+This project demonstrates how AI-assisted development can accelerate the creation of real-world applications while maintaining a polished user experience.</p>
 
-View your app in AI Studio: https://ai.studio/apps/35f6ed83-6440-4c47-ae1c-80a5fe8eac62
+<b>✨ Key Features </b>
 
-## Run Locally
+📊 Track income and expenses effortlessly.
 
-**Prerequisites:**  Node.js
+🏷️ Categorize transactions automatically.
 
+💵 Set and monitor monthly budgets.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+📈 Analyze spending patterns and trends.
+
+🔍 Search and filter transaction history.
+
+🌙 Enjoy a clean, responsive dark-themed interface.
+
+⚡ Built rapidly using Google's AI-powered development environment.
+
+<img width="1449" height="691" alt="WhatsApp Image 2026-06-15 at 12 21 41 PM (1)" src="https://github.com/user-attachments/assets/5bdfd584-f7af-4cb9-b819-270b0f5a4cdf" />
+
+<img width="1525" height="687" alt="WhatsApp Image 2026-06-15 at 12 21 41 PM" src="https://github.com/user-attachments/assets/7c22c8e2-8231-4289-a142-6983e343580f" />
+
